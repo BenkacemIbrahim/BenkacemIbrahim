@@ -59,6 +59,20 @@ const ibrahim = {
 
 ---
 
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-benkacem)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Benkacem_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_with_ibrahim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ibrahimbenkacem.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.benkacem.dev@gmail.com)
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -77,8 +91,7 @@ const ibrahim = {
 <div align="center">
 
 ### 🎨 Frontend Showcase
-[![barber joes luxury grooming
-Responsive](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=barber-joes-luxury-grooming&theme=tokyonight)](https://github.com/BenkacemIbrahim/barber-joes-luxury-grooming)
+[![barber joes luxury grooming](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=barber-joes-luxury-grooming&theme=tokyonight)](https://github.com/BenkacemIbrahim/barber-joes-luxury-grooming)
 [![astate-landing
 ](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=astate-landing&theme=tokyonight)](https://github.com/BenkacemIbrahim/Astate-landing)
 
@@ -122,20 +135,6 @@ System](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim
 - 🏆 **JavaScript Algorithms and Data Structures** - FreeCodeCamp
 - 🌟 **Responsive Web Design** - FreeCodeCamp
 - 💡 **React Developer Certification** - Meta
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-benkacem)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Benkacem_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_with_ibrahim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ibrahimbenkacem.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.benkacem.dev@gmail.com)
-
-</div>
 
 ---
 
