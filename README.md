@@ -92,8 +92,6 @@ const ibrahim = {
 
 ### 🎨 Frontend Showcase
 [![barber joes luxury grooming](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=barber-joes-luxury-grooming&theme=tokyonight)](https://github.com/BenkacemIbrahim/barber-joes-luxury-grooming)
-[![astate-landing
-](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=astate-landing&theme=tokyonight)](https://github.com/BenkacemIbrahim/Astate-landing)
 [![ibrahim-portfolio
 ](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=ibrahim-portfolio&theme=tokyonight)](https://github.com/BenkacemIbrahim/ibrahim-portfolio)
 
