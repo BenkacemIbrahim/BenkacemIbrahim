@@ -94,6 +94,8 @@ const ibrahim = {
 [![barber joes luxury grooming](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=barber-joes-luxury-grooming&theme=tokyonight)](https://github.com/BenkacemIbrahim/barber-joes-luxury-grooming)
 [![ibrahim-portfolio
 ](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=ibrahim-portfolio&theme=tokyonight)](https://github.com/BenkacemIbrahim/ibrahim-portfolio)
+[![notebooklm-clone
+](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=notebooklm-clonetheme=tokyonight)](https://github.com/BenkacemIbrahim/notebooklm-clone)
 
 ### 🚀 Full Stack Showcase
 [![Task Management
