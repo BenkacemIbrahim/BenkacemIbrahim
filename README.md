@@ -95,15 +95,14 @@ const ibrahim = {
 [![ibrahim-portfolio
 ](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=ibrahim-portfolio&theme=tokyonight)](https://github.com/BenkacemIbrahim/ibrahim-portfolio)
 [![notebooklm-clone
-](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=notebooklm-clonetheme=tokyonight)](https://github.com/BenkacemIbrahim/notebooklm-clone)
+](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=notebooklm-clone&theme=tokyonight)](https://github.com/BenkacemIbrahim/notebooklm-clone)
 
 ### 🚀 Full Stack Showcase
 [![Task Management
 System](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=task-master&theme=tokyonight)](https://github.com/BenkacemIbrahim/task-master)
 [![Address book web application](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=Address-book&theme=tokyonight)](https://github.com/BenkacemIbrahim/Address-book)
 [![Baccalaureate Grade Calculator](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=bac-grade-calculator&theme=tokyonight)](https://github.com/BenkacemIbrahim/bac-grade-calculator)
-[![To-Do-List-Laravel](https://github-readme-stats.vercel.app/api/pin/?username=Voxold&repo=To-Do-List-Laravel&theme=tokyonight)](https://github.com/Voxold/To-Do-List-Laravel)
-</div>
+
 
 ---
 
