@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ibrahim%20Benkacem&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Front-end%20Developer%20|%20Future%20Full-Stack%20Engineer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ibrahim%20Benkacem&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Full-Stack%20Engineer&descAlignY=55&descSize=18)
 
 </div>
 
@@ -17,8 +17,7 @@
 ```typescript
 const ibrahim = {
     name: "Ibrahim Benkacem",
-    role: "Front-end Developer",
-    future: "Full-Stack Engineer",
+    role: "Full-Stack Engineer",
     location: "🌍 Global",
     languages: ["JavaScript", "TypeScript", "Python", "PHP", "HTML", "CSS"],
     frameworks: ["React", "Tailwind CSS", "Bootstrap"],
