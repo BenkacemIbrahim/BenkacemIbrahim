@@ -2,11 +2,12 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ibrahim%20Benkacem&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Full-Stack%20Engineer&descAlignY=55&descSize=18)
 
-</div>
-
-<div align="center">
-
 ### 🚀 Passionate Developer | 💡 Problem Solver | 🎯 Innovation Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-benkacem)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Benkacem_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ibrahimbenkacem.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.benkacem.dev@gmail.com)
 
 </div>
 
@@ -14,17 +15,22 @@
 
 ## 🌟 About Me
 
+I am a dedicated **Full-Stack Engineer** with a global perspective, focused on building scalable, high-performance web applications. I thrive on solving complex problems and turning innovative ideas into reality using modern technologies.
+
 ```typescript
 const ibrahim = {
     name: "Ibrahim Benkacem",
     role: "Full-Stack Engineer",
     location: "🌍 Global",
-    languages: ["JavaScript", "TypeScript", "Python", "PHP", "HTML", "CSS"],
-    frameworks: ["React", "Tailwind CSS", "Bootstrap"],
-    databases: ["MongoDB", "MySQL"],
-    tools: ["Git", "GitHub", "VS Code", "Figma"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+    code: ["JavaScript", "TypeScript", "Python", "PHP"],
+    technologies: {
+        frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
+        backend: ["Node.js", "Hono", "Laravel", "Python"],
+        database: ["PostgreSQL", "MongoDB", "MySQL"],
+        tools: ["Docker", "Git", "Figma"]
+    },
+    currentFocus: "Building scalable enterprise solutions",
+    challenge: "Turning coffee into code ☕ ➡️ 💻"
 };
 ```
 
@@ -34,126 +40,76 @@ const ibrahim = {
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| Frontend | Backend | Database | Tools |
+| :---: | :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Hono](https://img.shields.io/badge/Hono-E34F26?style=for-the-badge&logo=hono&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🧠 Engineering Philosophy
 
-<div align="center">
+> *"Code is read much more often than it is written."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-benkacem)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Benkacem_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_with_ibrahim)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ibrahimbenkacem.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.benkacem.dev@gmail.com)
-
-</div>
+I approach software development with a focus on **maintainability**, **scalability**, and **user experience**.
+- **Clean Architecture**: I advocate for modular, testable, and loosely coupled code.
+- **Type Safety**: TypeScript is my default to catch errors early and document intent.
+- **Performance First**: I optimize for Core Web Vitals and server response times from day one.
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Signature Work
 
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenkacemIbrahim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenkacemIbrahim&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
+### 🏢 [Cu4tro Studio ERP](https://github.com/BenkacemIbrahim/monorepo-erp-setup-2)
+*A comprehensive Enterprise Resource Planning system built for modern B2B operations.*
+- **Architecture**: Monorepo with Next.js 15 (Frontend) and Hono.js (Backend).
+- **Key Tech**: Drizzle ORM, PostgreSQL, Tailwind CSS v4, Better Auth.
+- **Highlights**: Implemented Role-Based Access Control (RBAC), real-time analytics dashboard, and a complex claims management workflow.
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenkacemIbrahim&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 🎨 Frontend Showcase
-[![barber joes luxury grooming](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=barber-joes-luxury-grooming&theme=tokyonight)](https://github.com/BenkacemIbrahim/barber-joes-luxury-grooming)
-[![ibrahim-portfolio
-](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=ibrahim-portfolio&theme=tokyonight)](https://github.com/BenkacemIbrahim/ibrahim-portfolio)
-[![notebooklm-clone
-](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=notebooklm-clone&theme=tokyonight)](https://github.com/BenkacemIbrahim/notebooklm-clone)
-
-### 🚀 Full Stack Showcase
-[![Task Management
-System](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=task-master&theme=tokyonight)](https://github.com/BenkacemIbrahim/task-master)
-[![Address book web application](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=Address-book&theme=tokyonight)](https://github.com/BenkacemIbrahim/Address-book)
-[![Baccalaureate Grade Calculator](https://github-readme-stats.vercel.app/api/pin/?username=BenkacemIbrahim&repo=bac-grade-calculator&theme=tokyonight)](https://github.com/BenkacemIbrahim/bac-grade-calculator)
-
+### ⚡ [Task Master SaaS](https://github.com/BenkacemIbrahim/task-master)
+*A collaborative project management tool designed for remote teams.*
+- **Challenge**: Handling real-time state synchronization across multiple users.
+- **Solution**: Leveraged WebSockets and optimistic UI updates for a seamless experience.
 
 ---
 
-## 🎯 Current Goals
+## ⚡ Recent Technical Focus
 
-- 🔭 **Currently working on:** Advanced React patterns and Next.js 15 features
-- 🌱 **Learning:** Backend development with Node.js and cloud architecture
-- 👯 **Looking to collaborate on:** Open source projects and innovative web applications
-- 💬 **Ask me about:** Frontend development, React ecosystem, and UI/UX design
-- ⚡ **Fun fact:** I believe great code is like a good joke - if you have to explain it, it's not that good!
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenkacemIbrahim&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+I am currently deep-diving into **System Design** and **Cloud Native** technologies:
+- **Microservices**: Decomposing monolithic apps into scalable services using Docker and Kubernetes.
+- **Database Optimization**: Advanced indexing strategies and query performance tuning in PostgreSQL.
+- **Security**: Implementing OAuth2, OIDC, and secure session management.
 
 ---
 
-## 🏅 Achievements & Certifications
+## 💼 Work Methodology
 
-<div align="center">
-
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=BenkacemIbrahim&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
-- 🎓 **Frontend Development Certification** - FreeCodeCamp
-- 🏆 **JavaScript Algorithms and Data Structures** - FreeCodeCamp
-- 🌟 **Responsive Web Design** - FreeCodeCamp
-- 💡 **React Developer Certification** - Meta
+I thrive in collaborative, fast-paced environments.
+- **Agile/Scrum**: Experienced in bi-weekly sprints and daily standups.
+- **Code Reviews**: I believe in constructive feedback to elevate the entire team's code quality.
+- **CI/CD**: Automating testing and deployment pipelines for reliable releases.
 
 ---
 
-## 💭 Random Dev Quote
+## � Continuous Learning
+
+I am an avid reader and learner. Currently exploring:
+- **Rust**: For high-performance system tooling.
+- **AI Integration**: Building RAG (Retrieval-Augmented Generation) pipelines.
+- **Open Source**: Actively contributing to the developer ecosystem.
+
+---
 
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<br/>
+
+**[⬆ Back to Top](#)**
+
 </div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.2%
-TypeScript   4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.3%
-React        2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.1%
-CSS          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    7.8%
-HTML         15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    1.5%
