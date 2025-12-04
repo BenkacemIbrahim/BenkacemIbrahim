@@ -62,21 +62,6 @@ I approach software development with a focus on **maintainability**, **scalabili
 
 ---
 
-## 🚀 Signature Work
-
-### 🏢 [Cu4tro Studio ERP](https://github.com/BenkacemIbrahim/monorepo-erp-setup-2)
-*A comprehensive Enterprise Resource Planning system built for modern B2B operations.*
-- **Architecture**: Monorepo with Next.js 15 (Frontend) and Hono.js (Backend).
-- **Key Tech**: Drizzle ORM, PostgreSQL, Tailwind CSS v4, Better Auth.
-- **Highlights**: Implemented Role-Based Access Control (RBAC), real-time analytics dashboard, and a complex claims management workflow.
-
-### ⚡ [Task Master SaaS](https://github.com/BenkacemIbrahim/task-master)
-*A collaborative project management tool designed for remote teams.*
-- **Challenge**: Handling real-time state synchronization across multiple users.
-- **Solution**: Leveraged WebSockets and optimistic UI updates for a seamless experience.
-
----
-
 ## ⚡ Recent Technical Focus
 
 I am currently deep-diving into **System Design** and **Cloud Native** technologies:
