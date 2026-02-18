@@ -15,8 +15,6 @@
 
 ## 🌟 About Me
 
-I am a dedicated **Full-Stack Engineer** with a global perspective, focused on building scalable, high-performance web applications. I thrive on solving complex problems and turning innovative ideas into reality using modern technologies.
-
 ```typescript
 const ibrahim = {
     name: "Ibrahim Benkacem",
@@ -51,17 +49,6 @@ const ibrahim = {
 
 ---
 
-## 🧠 Engineering Philosophy
-
-> *"Code is read much more often than it is written."*
-
-I approach software development with a focus on **maintainability**, **scalability**, and **user experience**.
-- **Clean Architecture**: I advocate for modular, testable, and loosely coupled code.
-- **Type Safety**: TypeScript is my default to catch errors early and document intent.
-- **Performance First**: I optimize for Core Web Vitals and server response times from day one.
-
----
-
 ## ⚡ Recent Technical Focus
 
 I am currently deep-diving into **System Design** and **Cloud Native** technologies:
@@ -78,16 +65,6 @@ I thrive in collaborative, fast-paced environments.
 - **Code Reviews**: I believe in constructive feedback to elevate the entire team's code quality.
 - **CI/CD**: Automating testing and deployment pipelines for reliable releases.
 
----
-
-## � Continuous Learning
-
-I am an avid reader and learner. Currently exploring:
-- **Rust**: For high-performance system tooling.
-- **AI Integration**: Building RAG (Retrieval-Augmented Generation) pipelines.
-- **Open Source**: Actively contributing to the developer ecosystem.
-
----
 
 <div align="center">
 
