@@ -5,13 +5,18 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Main metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
           user: BenkacemIbrahim
           template: classic
           base: header, activity, community, repositories
@@ -21,3 +26,19 @@ jobs:
           filename: github-metrics.svg
           committer_branch: metrics
           output_action: branch
+          retries: 1
+
+      - name: 3D contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          user: BenkacemIbrahim
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          filename: github-isocalendar.svg
+          committer_branch: metrics
+          output_action: branch
+          retries: 1
