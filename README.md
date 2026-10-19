@@ -186,7 +186,7 @@ Local-first desktop tool for password strength, reuse checks and secure generati
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BenkacemIbrahim/BenkacemIbrahim/metrics/github-achievements.svg" alt="achievements" />
+<img src="https://github-profile-trophy.vercel.app/?username=BenkacemIbrahim&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
 
 </div>
 
