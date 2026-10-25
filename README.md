@@ -182,15 +182,11 @@ Local-first desktop tool for password strength, reuse checks and secure generati
 
 ---
 
-## 🏆 Highlights
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/BenkacemIbrahim?label=Followers&style=for-the-badge&logo=github&color=0EA5E9" alt="followers" />
-<img src="https://img.shields.io/github/stars/BenkacemIbrahim/NexusChat-AIPlatform?style=for-the-badge&logo=github&color=1D4ED8&label=NexusChat%20Stars" alt="stars" />
-<img src="https://img.shields.io/github/languages/top/BenkacemIbrahim/NexusChat-AIPlatform?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6&label=Top%20Language" alt="top language" />
-<img src="https://img.shields.io/github/last-commit/BenkacemIbrahim/NexusChat-AIPlatform?style=for-the-badge&logo=git&logoColor=white&color=059669&label=Last%20Commit" alt="last commit" />
-<img src="https://img.shields.io/github/commit-activity/y/BenkacemIbrahim/NexusChat-AIPlatform?style=for-the-badge&logo=githubactions&logoColor=white&color=7C3AED&label=Commits%20(year)" alt="commit activity" />
+<img src="https://raw.githubusercontent.com/BenkacemIbrahim/BenkacemIbrahim/metrics/github-achievements.svg" alt="achievements" />
 
 </div>
 
