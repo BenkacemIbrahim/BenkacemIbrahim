@@ -1,0 +1,58 @@
+name: Generate Snake & Pac-Man
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=#15130F&color_dots=#E3D7C0,#F0C98A,#E9B44C,#E4572E,#9E2F12
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Cream background
+        run: |
+          python3 - <<'PY'
+          import os, re
+          for f in ["dist/github-snake.svg", "dist/pacman-contribution-graph.svg"]:
+              if not os.path.exists(f):
+                  print("skip", f)
+                  continue
+              s = open(f, encoding="utf-8").read()
+              m = re.search(r"<svg\b[^>]*>", s)
+              if not m:
+                  continue
+              tag = m.group(0)
+              if 'style="' in tag:
+                  new = tag.replace('style="', 'style="background:#F3EBDD;', 1)
+              else:
+                  new = tag[:-1] + ' style="background:#F3EBDD">'
+              open(f, "w", encoding="utf-8").write(s.replace(tag, new, 1))
+              print("styled", f)
+          PY
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
