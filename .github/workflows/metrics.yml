@@ -24,6 +24,9 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           filename: github-metrics.svg
+          extras_css: |
+            svg { background: #F3EBDD; color: #6F675A; }
+            h1, h2, h3 { color: #15130F !important; }
           committer_branch: metrics
           output_action: branch
           retries: 1
@@ -39,6 +42,9 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: github-isocalendar.svg
+          extras_css: |
+            svg { background: #F3EBDD; color: #6F675A; }
+            h1, h2, h3 { color: #15130F !important; }
           committer_branch: metrics
           output_action: branch
           retries: 1
@@ -57,6 +63,10 @@ jobs:
           plugin_achievements_threshold: C
           plugins_errors_fatal: yes
           filename: github-achievements.svg
+          extras_css: |
+            svg { background: #F3EBDD; color: #6F675A; }
+            h1, h2, h3 { color: #15130F !important; }
           committer_branch: metrics
           output_action: branch
           retries: 1
+          debug: yes
