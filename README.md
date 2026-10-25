@@ -1,21 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0F172A,50:1D4ED8,100:0EA5E9&text=Ibrahim%20Benkacem&fontColor=FFFFFF&fontSize=62&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%7C%20Spring%20Boot%20%7C%20Next.js%20%7C%20Laravel&descAlignY=64&descSize=18" alt="header" />
-
-<a href="https://github.com/BenkacemIbrahim/BenkacemIbrahim">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&height=50&lines=Building+scalable+web+platforms;Spring+Boot+%7C+Laravel+%7C+Node.js+backends;Next.js+%26+Angular+interfaces;Clean+code.+Secure+APIs.+Real+products." alt="Typing SVG" />
-</a>
+<img width="100%" src="https://raw.githubusercontent.com/BenkacemIbrahim/BenkacemIbrahim/main/assets/header.svg" alt="Hi, I'm Ibrahim Benkacem - Software Engineer" /><br/><a href="https://ibrahimbenkacem.vercel.app/"><img width="33%" src="https://raw.githubusercontent.com/BenkacemIbrahim/BenkacemIbrahim/main/assets/btn-portfolio.svg" alt="Portfolio" /></a><a href="https://github.com/BenkacemIbrahim"><img width="33%" src="https://raw.githubusercontent.com/BenkacemIbrahim/BenkacemIbrahim/main/assets/btn-github.svg" alt="GitHub" /></a><a href="mailto:benkacem.ibrahim.dev@gmail.com"><img width="33%" src="https://raw.githubusercontent.com/BenkacemIbrahim/BenkacemIbrahim/main/assets/btn-hello.svg" alt="Say hello" /></a>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BenkacemIbrahim)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-benkacem)
 [![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Benkacem_)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibrahimbenkacem.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benkacem.ibrahim.dev@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=BenkacemIbrahim&label=Profile%20Views&color=1D4ED8&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/github/followers/BenkacemIbrahim?label=Followers&style=for-the-badge&color=0EA5E9&logo=github" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=BenkacemIbrahim&label=Profile%20Views&color=15130F&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/BenkacemIbrahim?label=Followers&style=for-the-badge&color=E4572E&logo=github&logoColor=white" alt="followers" />
 
 </div>
 
@@ -29,9 +21,9 @@
 
 ```js
 const ibrahim = {
-  role: "Full Stack Developer",
+  role: "Software Engineer",
   focus: ["Microservices", "REST APIs", "SaaS platforms"],
-  backend: ["Java / Spring Boot", "Node.js / Express", "Laravel"],
+  backend: ["Java / Spring Boot", ".NET / C#", "Node.js / Express", "Laravel"],
   frontend: ["Next.js", "Angular", "React", "TypeScript"],
   currentlyLearning: ["Kubernetes", "System Design", "AWS"],
   openTo: "Freelance, collaborations & remote roles",
@@ -58,7 +50,7 @@ const ibrahim = {
 <div align="center">
 
 **Backend**<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,laravel,php&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,nodejs,express,laravel,php&theme=dark" /><br/><br/>
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=angular,nextjs,react,ts,js,html,css,tailwind&theme=dark" /><br/><br/>
 **Databases**<br/>
@@ -155,16 +147,24 @@ Local-first desktop tool for password strength, reuse checks and secure generati
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com?user=BenkacemIbrahim&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=BenkacemIbrahim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="stats" />
-
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="middle" width="50%">
+<img height="150" src="https://streak-stats.demolab.com?user=BenkacemIbrahim&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
+</td>
+<td align="center" valign="middle" width="50%">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=BenkacemIbrahim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="stats" />
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
 <img width="100%" src="https://raw.githubusercontent.com/BenkacemIbrahim/BenkacemIbrahim/metrics/github-metrics.svg" alt="metrics" />
-
+</td>
+<td align="center" valign="top" width="50%">
 <img width="100%" src="https://raw.githubusercontent.com/BenkacemIbrahim/BenkacemIbrahim/metrics/github-isocalendar.svg" alt="3D contribution calendar" />
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -196,13 +196,8 @@ Local-first desktop tool for password strength, reuse checks and secure generati
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=0EA5E9&center=true&vCenter=true&width=600&lines=Open+to+freelance+%26+collaboration;Let%27s+build+something+great+together+%F0%9F%9A%80" alt="connect" />
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-15130F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibrahimbenkacem.vercel.app/)
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ibrahimbenkacem.me)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benkacem.ibrahim.dev@gmail.com)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0EA5E9,50:1D4ED8,100:0F172A&animation=twinkling" alt="footer" />
+<a href="mailto:benkacem.ibrahim.dev@gmail.com"><img width="100%" src="https://raw.githubusercontent.com/BenkacemIbrahim/BenkacemIbrahim/main/assets/footer.svg" alt="Have a project in mind? Say hello." /></a>
 
 </div>
