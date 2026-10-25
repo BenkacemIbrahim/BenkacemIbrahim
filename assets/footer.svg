@@ -16,7 +16,7 @@
     @keyframes nudge { 0%,100% { transform: translate(0,0); } 50% { transform: translate(3px,-3px); } }
   </style>
 
-  <path d="M0 350 V26 Q0 0 26 0 H1174 Q1200 0 1200 26 V350 Z" fill="#F3EBDD"/>
+  <path d="M0 284 V26 Q0 0 26 0 H1174 Q1200 0 1200 26 V284 Z" fill="#F3EBDD"/>
   <path d="M0.75 282 V26 Q0.75 0.75 26 0.75 H1174 Q1199.25 0.75 1199.25 26 V282" fill="none" stroke="#DDD1BC" stroke-width="1.5"/>
 
   <g class="in d1">

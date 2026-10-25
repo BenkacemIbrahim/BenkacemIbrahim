@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="56" viewBox="0 0 260 56" role="img" aria-label="Linkedin">
+  <style>
+    .t { font: 800 17px 'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif; letter-spacing: 3px; fill: #F3EBDD; }
+    .a { animation: nudge 2s ease-in-out infinite; }
+    @keyframes nudge { 0%,100% { transform: translate(0,0); } 50% { transform: translate(2px,-2px); } }
+  </style>
+  <rect x="2" y="2" width="256" height="52" rx="26" fill="#15130F"/>
+  <circle cx="38" cy="28" r="17" fill="#F3EBDD"/>
+  <svg x="28" y="18" width="20" height="20" viewBox="0 0 448 512" fill="#0A66C2"><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z"/></svg>
+  <text class="t" x="68" y="34">LINKEDIN</text>
+  <g class="a"><path d="M212 36 L226 22 M216 22 H226 V32" fill="none" stroke="#E4572E" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
